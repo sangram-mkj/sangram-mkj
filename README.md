@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MongoDB, ExpressJS, React, NodeJS, Redux etc.**
 
-- 👨‍💻 All of my projects are available at [comingsoon](comingsoon)
+- 👨‍💻 My Linkedin profile: <a href="https://www.linkedin.com/in/sangram-mkj/">Sangram-mkj</a>
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, MongoDB**
 
